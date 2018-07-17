@@ -18,3 +18,12 @@ source $HOME/.cargo/env
 #check safety install
 greencat777:~/workspace $ rustc --version
 rustc 1.27.1 (5f2b325f6 2018-07-07)
+
+#format
+https://github.com/rust-lang-nursery/rustfmt
+
+#コード保管
+https://github.com/racer-rust/racer
+
+#ツール関連まとめ
+https://gist.github.com/sile/c92348d3dd5b6580bda1500bcb31e712
